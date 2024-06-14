@@ -47,4 +47,5 @@ You can find out more details in the project wiki.
 ![image](https://github.com/localhost-8/Telegram-bot/assets/119116574/96c179a4-ac87-4977-86bc-10ca8b91f801)
 <br>
 <p>The bot allows you to access AI and Web resources, generate text and create programs. 
+<br>
 [→] https://github.com/staffuser</p> 
